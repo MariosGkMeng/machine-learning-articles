@@ -1,5 +1,5 @@
-# Currently contributing by...
-- Making the markdown note systems appropriate for usage in [Obsidian](https://obsidian.md/)
+# Currently changing my version of the source repo by...
+- Making the markdown note system appropriate for usage in [Obsidian](https://obsidian.md/)
 - Making the Obsidian vault more organized by
   - Adding folders for types of notes
   - Making notes smaller and embedding them in the large ones
